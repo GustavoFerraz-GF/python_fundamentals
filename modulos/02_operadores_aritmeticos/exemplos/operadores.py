@@ -15,11 +15,10 @@
 #nome = input("Qual é o seu nome? ")
 #print("Prazer em te conhecer {}".fomart(nome))
 
-'''
-numero1 = int(input("Um valor: "))
-numero2 = int(input("Outro valor: "))
-print(f"A soma vale {numero1 + numero2}")
-'''
+# numero1 = int(input("Um valor: "))
+# numero2 = int(input("Outro valor: "))
+# print(f"A soma vale {numero1 + numero2}")
+
 numero1 = int(input("Um valor: "))
 numero2 = int(input("Outro valor: "))
 soma = numero1 + numero2
