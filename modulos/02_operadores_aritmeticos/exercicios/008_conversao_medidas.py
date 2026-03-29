@@ -1,0 +1,7 @@
+medida = float(input("Digite um número em quilometros: "))
+print(f"{medida:.2f} km") 
+print(f"{medida * 10:.2f} hm")
+print(f"{medida * 100:.2f} dam")
+print(f"{medida * 1000:.2f} m")
+print(f"{medida * 100000:.2f} cm") 
+print(f"{medida * 1000000:.2f} mm.")
